@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+section#conte {
+    width: 1000px;
+    margin: 0px;
+
+}
+iframe#frame_esp{
+    width: 435px;
+    height: 295px;
+    border: none;
+    overflow: none;
+    
+}
+iframe#frame_esp :-webkit-scrollbar {
+    display: nones;
+
+}
+
+
